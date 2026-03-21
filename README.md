@@ -1,2 +1,3 @@
-# smart-code-reviewer-hywp
-An automated code review tool for modern development workflows
+# Smart Code Reviewer Hywp
+
+A automated code review tool for modern development workflows.
